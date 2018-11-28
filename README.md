@@ -1,2 +1,3 @@
 # best-repo-ever
-Conflict 2
+
+Conflict Commit
