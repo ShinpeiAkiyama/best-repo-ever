@@ -1,2 +1,2 @@
 # best-repo-ever
-something
+Conflict 2
